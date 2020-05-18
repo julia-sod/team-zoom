@@ -6,6 +6,6 @@
 * [Yulia](./Yulia.md)
 * [Eltayeb](./Eltayeb.md)
 * [Iryna](./Iryna.md)
-* Yauheniya
+* [Yauheniya](./Yauheniya)
 * Yildiray
 * Yared
