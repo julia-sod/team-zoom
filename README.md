@@ -5,7 +5,7 @@
 ### Team Zoom members:
 * [Yulia](./Yulia.md)
 * [Eltayeb](./Eltayeb.md)
-* Iryna
+* [Iryna](./Iryna.md)
 * Yauheniya
 * Yildiray
 * Yared
