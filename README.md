@@ -3,7 +3,7 @@
 ## We are Zoom, we are cool!:)
 
 ### Team Zoom members:
-* Yulia
+* [Yulia](./Yulia.md)
 * Eltayeb
 * Iryna
 * Yauheniya
