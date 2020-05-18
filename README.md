@@ -2,7 +2,7 @@
 
 ## We are Zoom, we are cool!:)
 
-### Team members:
+### Team Zoom members:
 * Yulia
 * Eltayeb
 * Iryna
