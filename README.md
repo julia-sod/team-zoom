@@ -8,4 +8,4 @@
 * [Iryna](./Iryna.md)
 * [Yauheniya](./Yauheniya)
 * [Yildiray](./Yildiray)
-* Yared
+* [Yared](./Yared)
